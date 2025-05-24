@@ -27,4 +27,45 @@
 
 ## Capítulo 5: Infraestructura de TI y Tecnologías Emergentes
 - Definición: Hardware, software, redes y servicios que soportan sistemas de información.
-- Imp
+- Importancia estratégica: Base para operar, administrar y competir; inversión clave.
+- Componentes: Hardware (servidores, procesadores), software empresarial (ERP, CRM), redes (Cisco, SD-WAN), servicios.
+- Computación cliente/servidor y nube: Modelo base para aplicaciones, arquitecturas multinivel.
+- Tendencias: Computación en la nube (IaaS, PaaS, SaaS), virtualización, movilidad, IA avanzada, computación verde.
+- Desafíos: Adaptación tecnológica, gestión eficiente, gobernanza TI, inversión estratégica.
+
+## Capítulo 6: Bases de Datos y Big Data
+- Bases de datos relacionales: Tablas con filas y columnas; claves primarias y foráneas.
+- Operaciones clave: SELECT, JOIN, PROJECT.
+- Bases de datos NoSQL: Manejan datos no estructurados.
+- Big Data: Datos masivos que requieren tecnologías especiales.
+- Minería de datos: Patrones ocultos (asociaciones, secuencias, clasificaciones, agrupamientos).
+- OLAP: Análisis multidimensional para decisiones.
+- Gobernanza y calidad de datos: Clave para precisión y seguridad.
+- Bases de datos en la nube: Acceso remoto, integración con web.
+
+## Capítulo 7: Telecomunicaciones, Internet y Tecnología Inalámbrica
+- Redes y conectividad: LAN, MAN, WAN; dispositivos y protocolos TCP/IP.
+- Internet: Infraestructura global que facilita comercio electrónico y colaboración.
+- Tecnologías inalámbricas: Wi-Fi, Bluetooth, 3G/4G/5G, RFID y sensores.
+- Retos de seguridad: Políticas robustas, cifrado y control de acceso.
+- IA y telecomunicaciones: Optimiza tráfico, personaliza servicios y fortalece seguridad.
+- Importancia: Base para economía digital y transformación empresarial.
+
+## Capítulo 8: Seguridad y Control en Sistemas de Información
+- Vulnerabilidades: Destrucción, errores, fraudes, ataques externos e internos.
+- Importancia: Protección de activos, cumplimiento legal, evitar pérdidas.
+- Marco organizacional: Evaluación de riesgos, políticas, auditorías.
+- Herramientas: Firewall, detección de intrusos, autenticación, antivirus, cifrado.
+- Sistemas tolerantes a fallas: Garantizan disponibilidad continua.
+- Casos: Robo en banco, hackeo Target, malware Stuxnet.
+- Conclusión: Seguridad es fundamental para continuidad y confianza.
+
+## Capítulo 9: Obtención de la Excelencia Operacional e Intimidad con el Cliente
+- Sistemas empresariales: Automatizan procesos, integran funciones, monitorean en tiempo real.
+- Cadena de suministro: Planificación, aprovisionamiento, fabricación, entrega y globalización.
+- CRM: Mejora interacción, satisfacción y fidelización del cliente.
+- Beneficios CRM: Mejor servicio, personalización, análisis predictivo.
+- Software de ventas: Automatiza tareas, pronósticos y productividad.
+- Adaptación tecnológica: Clave para competitividad.
+- Valor estratégico: SI optimizan operaciones y mejoran relación con clientes.
+
